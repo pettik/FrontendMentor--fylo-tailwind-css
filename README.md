@@ -1,33 +1,28 @@
-# Simple Tailwind Starter
+# FrontendMentor--fylo-tailwind-css
 
-This is a simple Tailwind starter project using the Tailwind CLI. It is meant to be used as a starting point for your projects. This is the same setup used in my [Tailwind From Scratch Course](https://www.traversymedia.com/tailwind-css-course).
+<b>Fylo dark theme landing page</b> challenge using CSS framework - Tailwind CSS
+
+<b>Fylo dark theme landing page</b> challenge from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd) using CSS framework - Tailwind CSS. Author of this whole page is Brad Traversy in his [Tailwind CSS From Scratch course](https://www.traversymedia.com/tailwind-css-course)
 
 ## Usage
 
-Clone the repo:
+Install dependencies
 
-```bash
-git clone
 ```
-
-Install the dependencies:
-
-```bash
 npm install
 ```
 
-Build or watch the CSS file:
+Run Tailwind CLI
 
-```bash
-# Build once
-npm run build
-
-# Watch for changes
+```
 npm run watch
 ```
 
-This will watch the `src/input.css` file and build it to `css/style.css`, which will be your final CSS file.
+### Screenshot
 
-## License
+<img src="./images/site-preview.png" alt="This is my solution of this challenge">
 
-This project is open source and available under the [MIT License](LICENSE).
+## My Contact
+
+- Website - [Petr Bednarski](https://github.com/pettik)
+- Frontend Mentor - [@pettik](https://www.frontendmentor.io/profile/pettik)
